@@ -1,5 +1,5 @@
 # AdminDesk-Frontend
-Welcome to the adminDesk Frontend repository. This project delivers the user interface for a comprehensive management software solution, crafted to optimize business operations with a clean, responsive, and efficient design.
+Welcome to the AdminDesk Frontend repository. This project provides the user interface for a sophisticated management software solution, designed to optimize business operations through a clean, responsive, and efficient user experience.
 
 ## Tech Stack
 - Programming Language: **Typescript**
