@@ -1,0 +1,17 @@
+Git Commit Format
+
+            feat: A new feature for the user or a significant addition to the codebase.
+
+            fix: A bug fix, which corrects an error or problem in the code.
+
+            docs: Documentation changes, such as updates to the README or other documentation files.
+
+            style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc.).
+
+            refactor: Code changes that neither fix a bug nor add a feature but improve code structure or performance.
+
+            test: Adding or updating tests, including unit tests, integration tests, or end-to-end tests.
+
+            chore: Changes to the build process or auxiliary tools and libraries such as documentation generation.
+
+        Example: feat(login): add remember me feature

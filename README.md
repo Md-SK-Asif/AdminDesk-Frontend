@@ -7,3 +7,6 @@ Welcome to the AdminDesk Frontend repository. This project provides the user int
 - Styling:  **Tailwind CSS**
 - Markup:  **HTML**
 - APIs:  **Communicates with backend services for seamless data integration**
+
+## Contact
+For questions or feedback, please reach out to [mdshariarkabirasif@gmail.com].
